@@ -1,3 +1,5 @@
+# EduNest: Nền tảng SaaS quản lý học viên và học phí cho trung tâm nhỏ
+**Câu định vị:** Đồ án giải quyết vấn đề điểm danh và nhắc học phí thủ công cho các trung tâm quy mô nhỏ, đo bằng tỉ lệ đóng học phí đúng hạn và thời gian điểm danh, tổng hợp cuối tháng.
 ## Bảng đo lường hiệu quả (Trước – Sau)
 Đồ án đo lường hiệu quả của hệ thống dựa trên 2 chỉ số cốt lõi tại trung tâm pilot.
 | Chỉ số | Cách đo | Trước (Quy trình Excel/Zalo) | Sau (Hệ thống EduNest) | Ngày đo | Bằng chứng |
